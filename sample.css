@@ -1,0 +1,38 @@
+.heading{
+    color:blue;
+    text-align:center;
+    padding-bottom: 5%;
+}
+.textcol{
+    color: rgb(16, 13, 19);
+    font-size:35px ;
+}
+.center{
+    text-align: center;
+}
+.bg-container{
+    background-image:url("https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjN8fHdlYnNpdGUlMjBiYWNrZ3JvdW5kfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-size: cover;
+}
+.box-size{
+    hight:5vh;
+    width: 138px;
+    border-radius: 10px;
+    text-align: center;
+}
+.bg-image{
+    background-image:url("https://thumbs.dreamstime.com/b/human-resources-crm-hiring-recruitment-business-concept-copy-space-human-resources-crm-recruitment-business-concept-copy-109333415.jpg");
+    background-size: cover;
+    
+}
+.main_text{
+    font-size:80px ;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight:bold;
+    color:rgb(13, 0, 8);
+    padding: 5%;
+}
+.paragraph{
+    color:rgb(167, 25, 183);
+    font-weight:bolder ;
+}
